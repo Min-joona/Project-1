@@ -97,7 +97,7 @@ ul li:hover{
 
     ul {
         width: 100%;
-        flex-direction: column; 
+        flex-direction: row; 
         text-align: left;
         margin-top: 10px;
         padding-left: 0;
