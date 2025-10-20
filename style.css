@@ -111,6 +111,7 @@ ul li:hover{
         width: 90%; 
         margin-top: 20px;
         padding: 15px;
+        
     }
 
     .content h2 {
@@ -119,8 +120,8 @@ ul li:hover{
     }
 
     .content p {
-        width: 100%; 
-        font-size: 0.9em; 
+        width: 56%; 
+        font-size: 1.4em; 
         padding: 15px 0;
         letter-spacing: 1px;
     }
@@ -130,6 +131,8 @@ ul li:hover{
         padding: 10px 15px;
         width: 90%; 
         margin-top: 10px;
+        position: absolute;
+        bottom: 30%;
     }
 }
 
